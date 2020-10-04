@@ -1,0 +1,2 @@
+# FunctionStyle
+Functional program
